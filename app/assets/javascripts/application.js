@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require clipboard
+//= require vue
 //= require turbolinks
 //= require_tree .
